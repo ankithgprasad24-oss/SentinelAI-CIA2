@@ -1,0 +1,19 @@
+{
+  "project": "SentinelAI",
+  "topic": "AI-Powered Fraud Detection System",
+  "algorithm": "Isolation Forest",
+  "dataset": "Synthetic transaction reference and sample data",
+  "files": [
+    "app.py",
+    "train_model.py",
+    "data/sample_transactions.csv",
+    "data/upload_template.csv",
+    "models/sentinelai_model.joblib",
+    "Project_Report.docx",
+    "Presentation.pptx",
+    "demo_script.md",
+    "README.md",
+    "requirements.txt",
+    "tests/test_validation.py"
+  ]
+}
